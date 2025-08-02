@@ -1,0 +1,1 @@
+// Service Worker vide pour PWA
